@@ -29,7 +29,7 @@ I'm a Full Stack Developer passionate about building **scalable web applications
 - **Clinical Management System** — A software application focused on clinical management workflows.
 - **Chat App** — A real-time communication application.
 - **Customer Churn Prediction** — A machine learning project focused on predicting customer churn.
-- **ERP Modules & Usage Analytics** — Enterprise application development involving reporting, analytics, and workflow management.
+- **ERP Application** — Enterprise application development involving reporting, analytics, and workflow management.
 
 ## 💼 Professional Experience
 
@@ -52,6 +52,7 @@ Contributed to ERP and hospital management system development, working with Lara
 ## 🤝 Let's Connect
 
 - 💻 GitHub: [@HellTanmay](https://github.com/HellTanmay)
+- ✉️ Email: (ailtanmay12@gmail.com)
 - 💼 LinkedIn: [Tanmay S Ail](https://www.linkedin.com/in/tanmay-s-ail-882a772a1/)
 
 ---
